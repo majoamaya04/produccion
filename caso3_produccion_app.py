@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 # ─── Configuración de página ──────────────────────────────────
 st.set_page_config(
-    page_title="MetalParts — Dashboard de Producción",
+    page_title="MetalParts — Dashboard de Producción | Amaya Y Ordoñez",
     page_icon="🏭",
     layout="wide",
     initial_sidebar_state="expanded",
